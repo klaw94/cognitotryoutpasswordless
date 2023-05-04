@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tryoutcognito-dev-85253-authRole",
+      "UnauthRoleArn": "arn:aws:iam::748822223824:role/amplify-tryoutcognito-dev-85253-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::748822223824:role/amplify-tryoutcognito-dev-85253-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-tryoutcognito-dev-85253-deployment",
+      "UnauthRoleName": "amplify-tryoutcognito-dev-85253-unauthRole",
+      "StackName": "amplify-tryoutcognito-dev-85253",
+      "StackId": "arn:aws:cloudformation:eu-west-3:748822223824:stack/amplify-tryoutcognito-dev-85253/0417bd70-e8b6-11ed-a845-0e409ad2b8aa",
+      "AmplifyAppId": "d18udrv2we6em7"
+    },
+    "categories": {
+      "auth": {
+        "tryoutcognitocec43bbe": {
+          "userPoolId": "eu-west-3_oPGeHmwjo",
+          "userPoolName": "new-user-pool-test",
+          "webClientId": "4arualaj5cm3e5skp7pedrr0gn",
+          "nativeClientId": "4arualaj5cm3e5skp7pedrr0gn"
+        }
+      }
+    }
+  }
+}

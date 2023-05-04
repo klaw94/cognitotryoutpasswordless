@@ -1,0 +1,19 @@
+{
+  "authSelections": "userPoolOnly",
+  "resourceName": "tryoutcognitocec43bbe",
+  "serviceType": "imported",
+  "region": "eu-west-3",
+  "usernameAttributes": [
+    "email"
+  ],
+  "requiredAttributes": [
+    "email"
+  ],
+  "passwordPolicyMinLength": 6,
+  "passwordPolicyCharacters": [],
+  "mfaConfiguration": "OFF",
+  "autoVerifiedAttributes": [
+    "email"
+  ],
+  "mfaTypes": []
+}
